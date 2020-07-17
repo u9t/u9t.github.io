@@ -1,0 +1,9 @@
+created: 20200717095052792
+demo-url: https://u9t.github.io/editions/getting-started-en
+git-repo: https://github.com/u9t/plugins/tree/master/u9t/getting-started-en
+modified: 20200717095106758
+tags: plugin
+title: GettingStarted EN
+type: text/vnd.tiddlywiki
+
+{{||$:/u9t/template/theme}}
