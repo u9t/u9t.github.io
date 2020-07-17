@@ -1,11 +1,11 @@
 created: 20170203113552821
-modified: 20170203113702841
+modified: 20200717124401216
 tags: 
 title: $:/u9t/template/theme
 type: text/vnd.tiddlywiki
 
 ! Demo
-see: {{!!demo-url}}
+Siehe: {{!!demo-url}}
 
 ! Repository 
-see: {{!!git-repo}}
+Siehe: {{!!git-repo}}
