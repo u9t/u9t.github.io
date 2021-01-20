@@ -1,9 +1,9 @@
 created: 20200717114733465
 demo-url: https://u9t.github.io/editions/MDUe_basis
 git-repo: https://github.com/u9t/editions/tree/master/MDUe_basis
-modified: 20200717122718800
+modified: 20201229192418670
 tags: edition
-title: MDUe_Basis
+title: MDUe_Basis (nur GettingStarted)
 type: text/vnd.tiddlywiki
 
 {{||$:/u9t/template/theme}}
